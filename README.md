@@ -1,4 +1,4 @@
-# artificial-inteligence
+# deep-learning
 Image classification with Keras and deep learning
 
 
